@@ -1,8 +1,0 @@
-.interactive-image-container {
-    perspective: 1000px;
-  }
-  
-  .interactive-image {
-    transition: transform 0.1s;
-  }
-  
